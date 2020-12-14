@@ -121,8 +121,14 @@ body, html {
   min-height: 400px; }
 
 .img3-area {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.68)), url("/images/image-4.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.68)), url("/images/flow-img4.jpg");
   min-height: 400px; }
+
+.img4-area {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.68)), url("/images/chocolate-cake.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  min-height: 600px; }
 
 .section {
   text-align: center;
