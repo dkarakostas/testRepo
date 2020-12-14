@@ -117,11 +117,11 @@ body, html {
   padding: 250px 0 20px; }
 
 .img2-area {
-  background-image: url("/images/flow-coffee-seeds.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.55)), url("/images/flow-coffee-seeds.jpg");
   min-height: 400px; }
 
 .img3-area {
-  background-image: url("/images/image-4.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.68)), url("/images/image-4.jpg");
   min-height: 400px; }
 
 .section {
@@ -479,3 +479,6 @@ body, html {
   .image-menu-wrapper img {
     width: 100%;
     height: auto; }
+
+.mfp-arrow {
+  outline: none !important; }
